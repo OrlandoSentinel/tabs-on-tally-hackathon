@@ -5,7 +5,7 @@
 See the endpoints for the Tabs on Tallahassee API [here](http://www.tabsontallahassee.com/api)
 
 #### Registration
-If you would like to get your own API key, sign up [here](http://www.tabsontallahassee.com/register)
+If you would like to get your own API key, sign up [here](https://tabsontallahassee.com/accounts/register/)
 
 ### Projects that use legislative data
 
