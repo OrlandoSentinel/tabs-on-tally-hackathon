@@ -1,7 +1,13 @@
 # Tabs on Tallahasee Hackathon 2016
 
+### <u>API Information</u>
+#### Endpoints
+See the endpoints for the Tabs on Tallahassee API [here](http://www.tabsontallahassee.com/api)
 
-#### Projects that use legislative data
+#### Registration
+If you would like to get your own API key, sign up [here](http://www.tabsontallahassee.com/register)
+
+### Projects that use legislative data
 
 <b>Connecticut</b><br>
 [VoteHound](http://projects.ctmirror.org/vote/) by the <i>Connecticut Mirror</i><br>
