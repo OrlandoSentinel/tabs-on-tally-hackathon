@@ -7,6 +7,10 @@ See the endpoints for the Tabs on Tallahassee API [here](http://www.tabsontallah
 #### Registration
 If you would like to get your own API key, sign up [here](https://tabsontallahassee.com/accounts/register/)
 
+### Other useful data sets
++ [Florida congressional districts](https://brigades.opendatanetwork.com/dataset/2014-Congressional-Districts/eu9j-g67a?firstRun=true)
++ [Florida campaign finance information] (http://dos.elections.myflorida.com/candidates/Index.asp)
+
 ### Projects that use legislative data
 
 <b>U.S. Congress</b><br>
